@@ -1,0 +1,38 @@
+_repo: The-Reign-of-Henry-the-Eighth-Volume-1--of-3-_15537
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Williams, W. Llewelyn (William Llewelyn)
+    alias: Williams, William Llewelyn
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '37803'
+    url: http://www.gutenberg.org/2009/agents/37803
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Froude, James Anthony
+    alias: Froude, J. A. (James Anthony)
+    birthdate: 1818
+    deathdate: 1894
+    gutenberg_agent_id: '1381'
+    url: http://www.gutenberg.org/2009/agents/1381
+    wikipedia: http://en.wikipedia.org/wiki/James_Anthony_Froude
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547'
+- !lcsh 'Henry VIII, King of England, 1491-1547'
+title: The Reign of Henry the Eighth, Volume 1 (of 3)
+url: http://www.gutenberg.org/ebooks/15537
